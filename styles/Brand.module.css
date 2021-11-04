@@ -1,0 +1,27 @@
+.brand {
+  margin-bottom: 12px;
+  text-align: center;
+}
+
+.brandImgContainer {
+  position: relative;
+  width: 100%;
+  max-width: 120px;
+  height: 120px;
+  margin: 0 auto 6px;
+  background-position: center;
+  background-size: cover;
+  border-radius: 16px;
+  box-shadow: 0 0 8px 1px rgb(0, 0, 0, 0.1);
+}
+
+.brand p {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.brand span {
+  font-size: 12px;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.5);
+}

@@ -7,10 +7,20 @@ body {
 }
 
 a {
-  color: inherit;
+  color: #0070f3;
   text-decoration: none;
 }
 
 * {
   box-sizing: border-box;
+}
+
+p {
+  margin: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
